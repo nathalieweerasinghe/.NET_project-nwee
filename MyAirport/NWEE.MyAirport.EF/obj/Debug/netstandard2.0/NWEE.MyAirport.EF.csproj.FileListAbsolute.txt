@@ -1,0 +1,16 @@
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\bin\Debug\netstandard2.0\NWEE.MyAirport.EF.deps.json
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\bin\Debug\netstandard2.0\NWEE.MyAirport.EF.dll
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.csprojAssemblyReference.cache
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.AssemblyInfo.cs
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\bin\Debug\netstandard2.0\NWEE.MyAirport.EF.pdb
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.dll
+C:\Users\natha\source\repos\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.pdb
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\bin\Debug\netstandard2.0\NWEE.MyAirport.EF.deps.json
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\bin\Debug\netstandard2.0\NWEE.MyAirport.EF.dll
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\bin\Debug\netstandard2.0\NWEE.MyAirport.EF.pdb
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.csprojAssemblyReference.cache
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.AssemblyInfo.cs
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.dll
+C:\Users\natha\source\repos\.NET_project-nwee\MyAirport\NWEE.MyAirport.EF\obj\Debug\netstandard2.0\NWEE.MyAirport.EF.pdb
