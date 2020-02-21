@@ -6,7 +6,7 @@ using System.Text;
 namespace NWEE.MyAirport.EF
 {
     public class Bagage
-    {
+    { 
         public int BagageID { get; set; }
         [Required(ErrorMessage = "CodeIada is required")]
         public int VolID { get; set; } 
