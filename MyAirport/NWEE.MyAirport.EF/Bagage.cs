@@ -9,14 +9,14 @@ namespace NWEE.MyAirport.EF
     { 
         public int BagageID { get; set; }
         [Required(ErrorMessage = "CodeIada is required")]
-        public int VolID { get; set; } 
+        public int? VolID { get; set; } 
         public Vol vol { get; set; }
-        public string CodeIada { get; set; }
+        public string CodeIata { get; set; }
         public DateTime DateCreation { get; set; }
         public string Classe { get; set; }
         public bool Prioritaire { get; set; }
-        public char STA { get; set; }
-        public string SSUR { get; set; }
+        public char Sta { get; set; }
+        public string Ssur { get; set; }
         public string Destination { get; set; }
         public string Escale { get; set; }
 
